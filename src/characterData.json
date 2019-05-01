@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "name": "Bomberman",
+        "image": "img/bomberman.png",
+        "wasClicked": false
+    },
+    {
+        "id": 2,
+        "name": "Bonk",
+        "image": "img/bonk.png",
+        "wasClicked": false
+    },
+    {
+        "id": 3,
+        "name": "Brash Bandicoot",
+        "image": "img/crash-bandicoot.png",
+        "wasClicked": false
+    },
+    {
+        "id": 4,
+        "name": "Donkey Kong",
+        "image": "img/donkey-kong.png",
+        "wasClicked": false
+    },
+    {
+        "id": 5,
+        "name": "Gex",
+        "image": "img/gex.png",
+        "wasClicked": false
+    },
+    {
+        "id": 6,
+        "name": "Link",
+        "image": "img/link.png",
+        "wasClicked": false
+    },
+    {
+        "id": 7,
+        "name": "Mario",
+        "image": "img/mario.png",
+        "wasClicked": false
+    },
+    {
+        "id": 8,
+        "name": "Mega Man",
+        "image": "img/mega-man.png",
+        "wasClicked": false
+    },
+    {
+        "id": 9,
+        "name": "Pac-Man",
+        "image": "img/pac-man.png",
+        "wasClicked": false
+    },
+    {
+        "id": 10,
+        "name": "Pikachu",
+        "image": "img/pikachu.png",
+        "wasClicked": false
+    },
+    {
+        "id": 11,
+        "name": "Sonic",
+        "image": "img/sonic.png",
+        "wasClicked": false
+    },
+    {
+        "id": 12,
+        "name": "Spyro",
+        "image": "/img/spyro.png",
+        "wasClicked": false
+    }
+]
